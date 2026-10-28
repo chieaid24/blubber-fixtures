@@ -5,6 +5,6 @@ No row represents a real opening and no personal data belongs here.
 
 ## Software Engineering Internship Roles
 
-| Company | Role | Location | Application | Term |
+| Company | Role | Location | Application | Terms |
 | --- | --- | --- | --- | --- |
 | Blubber Fixture Company | Baseline Software Engineer Intern | Toronto, Canada | [Apply](https://example.com/blubber-fixture-baseline) | Winter 2028 |
