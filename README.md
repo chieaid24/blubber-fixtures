@@ -9,3 +9,4 @@ No row represents a real opening and no personal data belongs here.
 | --- | --- | --- | --- | --- |
 | Blubber Fixture Company | Baseline Software Engineer Intern | Toronto, Canada | [Apply](https://example.com/blubber-fixture-baseline) | Winter 2028 |
 | Blubber Fixture Company | New Platform Software Engineer Intern | Waterloo, Canada | [Apply](https://example.com/blubber-fixture-new-20261028) | Winter 2028 |
+| Blubber Fixture Company | Release Gate Software Engineer Intern | Vancouver, Canada | [Apply](https://example.com/blubber-fixture-release-20261101) | Winter 2028 |
